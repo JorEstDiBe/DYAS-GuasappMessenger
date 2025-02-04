@@ -10,6 +10,8 @@ public class GuasappProgramLauncher {
 
         // Crear una instancia de la clase original
         MessagingClient originalClient = new MessagingClient();
+        
+        //Holis
 
         // Crear una instancia del proxy y pasarle el cliente original
         //
